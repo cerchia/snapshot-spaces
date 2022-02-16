@@ -1,0 +1,25 @@
+{
+  "token": "zil12cy2wcx6ygr47ddpf8l3r6llx43rnqcpavkwmj",
+  "name": "De-Risk",
+  "network": "testnet",
+  "symbol": "DRSK",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil12cy2wcx6ygr47ddpf8l3r6llx43rnqcpavkwmj",
+        "symbol": "DRSK",
+        "decimals": 2
+      }
+    }
+  ],
+  "members": [
+    "zil13kq5k3snl7xru47rqvty5mzw4qevsuy7xspadt",
+    "zil17f4amslggfd656aj0u3kkd25mw42egy6hx0suu",
+    "zil1nqs9ft5rwqludn6fh9c6wx9hn0q9daaydxjpyr"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
+}
